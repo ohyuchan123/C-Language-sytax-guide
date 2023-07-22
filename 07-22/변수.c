@@ -73,11 +73,6 @@ int main(){
         %c : 문자 변환 문자
         %s : 문자열 변환 문자
     */
-
-
-    int number1,number2;
-    scanf("%d %d",&number1,&number2);
-    printf("%d + %d = %d\n",number1,number2,number1+number2);
     #pragma endregion
     return 0;
 }
