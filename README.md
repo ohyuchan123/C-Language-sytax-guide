@@ -1,15 +1,14 @@
-# Study-C
+# C-Language-sytax-guide
 
 <aside>
 💡 C 언어는 1972년에 더니스 리치(Dennis Ritchie)와 켄 톰슨(Ken Thompson)이 벨 연구소(Bell Laboratories)에서 개발한 프로그래밍 언어입니다.
+</aside>
 
 C언어는 절자적 프로그래밍 언어로서 컴퓨터 프로그래밍에 널리 사용되며, 운영체제, 시스템 소프트웨어, 임베디드 시스템 등 다양한 분야에서 널리 쓰이고 있습니다.
 
-</aside>
-
 이 포스팅은 C언어 문법에 대해서 정리했으며 앞으로 계속 공부하면서 내용을 추가할 계획입니다.
 
-## 특징
+## 🤔 특징
 
 - C언어는 간결하고 효율적인 문법, 저수준의 메모리 조작이 가능한 기능들, 이식성이 뛰어나다는 특징을 가지고 있습니다.  
   C언는 컴파일러에 의해 기계어로 변환되어 실행되므로 컴파일된 코드의 실행 속도가 빠르며, 시스템 수준에서 하드웨어를 직접 다룰 수 있어 효율적인 시스템 소프트웨어 개발에 이상적입니다.
@@ -18,6 +17,18 @@ C언어는 절자적 프로그래밍 언어로서 컴퓨터 프로그래밍에 �
 - C언어는 다른 프로그래밍 언어들의 기반이 되는 중요한 언어 중 하나입니다.  
   예를 들어, C++과 Objective-C는 C 언어를 기반으로 발전된 언어들입니다. 따라서 C 언어를 배우면 다른 언어를 이해하고 습득하는 데에도 도움이 됩니다.
 
-## 자료 정리
+## 📝 자료 정리
 
-- <a href="">출력</a>
+# 07/22
+
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-22/%EC%B6%9C%EB%A0%A5.c">출력</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-22/%EB%B3%80%EC%88%98.c">변수</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-22/%EC%9E%85%EC%B6%9C%EB%A0%A5.c">입출력</a>
+
+## 📒 새롭게 배웠거나 공부하면서 정리 내용
+
+# 07/22
+
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-22/What%20I%20learned%20while%20studying.md#include%EC%99%80-%ED%97%A4%EB%8D%94%ED%8C%8C%EC%9D%BC">include와 헤더파일</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-22/What%20I%20learned%20while%20studying.md#pragma-region">#pragma region</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-22/What%20I%20learned%20while%20studying.md#c%EC%96%B8%EC%96%B4-%EB%B3%80%ED%99%98-%EB%B6%84%EC%9E%90">변환 문자</a>
