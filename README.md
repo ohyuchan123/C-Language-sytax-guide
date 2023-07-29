@@ -19,16 +19,18 @@ C언어는 절자적 프로그래밍 언어로서 컴퓨터 프로그래밍에 �
 
 ## 📝 자료 정리
 
-# 07/22
+### 07/22
 
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-22/%EC%B6%9C%EB%A0%A5.c">출력</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-22/%EB%B3%80%EC%88%98.c">변수</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-22/%EC%9E%85%EC%B6%9C%EB%A0%A5.c">입출력</a>
 
+### 07/29
+
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-29/%EC%97%B0%EC%82%B0%EC%9E%90.c">연산자</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-29/%EC%A0%9C%EC%96%B4%EB%AC%B8.c">제어문(if & else)</a>
+
 ## 📒 새롭게 배웠거나 공부하면서 정리 내용
 
-# 07/22
-
-- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-22/What%20I%20learned%20while%20studying.md#include%EC%99%80-%ED%97%A4%EB%8D%94%ED%8C%8C%EC%9D%BC">include와 헤더파일</a>
-- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-22/What%20I%20learned%20while%20studying.md#pragma-region">#pragma region</a>
-- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-22/What%20I%20learned%20while%20studying.md#c%EC%96%B8%EC%96%B4-%EB%B3%80%ED%99%98-%EB%B6%84%EC%9E%90">변환 문자</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-22/What%20I%20learned%20while%20studying.md#include%EC%99%80-%ED%97%A4%EB%8D%94%ED%8C%8C%EC%9D%BC">07/22</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-29/What%20I%20learned%20while%20studying.md">07/29</a>
