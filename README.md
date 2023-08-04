@@ -42,3 +42,10 @@ C언어는 절자적 프로그래밍 언어로서 컴퓨터 프로그래밍에 �
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-22/What%20I%20learned%20while%20studying.md#include%EC%99%80-%ED%97%A4%EB%8D%94%ED%8C%8C%EC%9D%BC">07/22</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-29/What%20I%20learned%20while%20studying.md">07/29</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/08-05/What%20I%20learned%20while%20studying.md#what-i-learned-while-studying">08/05</a>
+
+## 📝 Velog 글
+
+위 문법들은 코드만 github에 push 하였기 때문에 조금 더 남들이 보기 좋게 글을  
+Velog에 정리하였습니다
+
+- <a href="https://velog.io/@ohyuchan123/series/C-Grammer">Velog</a>
