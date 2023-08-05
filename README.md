@@ -30,7 +30,15 @@ C언어는 절자적 프로그래밍 언어로서 컴퓨터 프로그래밍에 �
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-29/%EC%97%B0%EC%82%B0%EC%9E%90.c">연산자</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-29/%EC%A0%9C%EC%96%B4%EB%AC%B8.c">제어문(if & else)</a>
 
+### 08/05
+
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/08-05/%EC%A0%9C%EC%96%B4%EB%AC%B8.c">제어문</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/08-05/%EB%B0%98%EB%B3%B5%EB%AC%B8(while).c">반복문(while)</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/08-05/%EB%B0%98%EB%B3%B5%EB%AC%B8(for).c">반복문(for)</a>
+- <a href="">문제</a>
+
 ## 📒 새롭게 배웠거나 공부하면서 정리 내용
 
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-22/What%20I%20learned%20while%20studying.md#include%EC%99%80-%ED%97%A4%EB%8D%94%ED%8C%8C%EC%9D%BC">07/22</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-29/What%20I%20learned%20while%20studying.md">07/29</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/08-05/What%20I%20learned%20while%20studying.md#what-i-learned-while-studying">08/05</a>
