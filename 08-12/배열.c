@@ -4,7 +4,7 @@ int main(){
 
     #pragma region 배열
     //배열
-    // 여러 개의 저장 공간이 한 줄로 나열되어 이쓴 ㄴ구조
+    // 여러 개의 저장 공간이 한 줄로 나열되어 있는 구조
 
     //<문법>
     // - 배열 만들기(선언)
@@ -26,7 +26,7 @@ int main(){
     printf("4번째 칸 : %d\n", arrary[3]);
     printf("5번째 칸 : %d\n", arrary[4]);
 
-    arrary[2] = 100;
+    arrary[2] = 100; //대입
 
     printf("%d\n",arrary[2]);
 
