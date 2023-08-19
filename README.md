@@ -44,11 +44,31 @@ C언어는 절자적 프로그래밍 언어로서 컴퓨터 프로그래밍에 �
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/08-12/%EB%B0%B0%EC%97%B4.c">배열</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/08-12/%ED%95%A8%EC%88%98.c">함수</a>
 
+### 08/19
+
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/08-19/void.c">void</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/08-19/%ED%8F%AC%EC%9D%B8%ED%84%B0.c">포인터</a>
+
 ## 📒 새롭게 배웠거나 공부하면서 정리 내용
 
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-22/What%20I%20learned%20while%20studying.md#include%EC%99%80-%ED%97%A4%EB%8D%94%ED%8C%8C%EC%9D%BC">07/22</a>
+  - include와 헤더파일
+  - prgama region
+  - c언어 변환 문자
+  - scanf & scanf_s
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-29/What%20I%20learned%20while%20studying.md">07/29</a>
+  - 논리 부정 연산자
+  - unsigned
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/08-05/What%20I%20learned%20while%20studying.md#what-i-learned-while-studying">08/05</a>
+  - scanf(사용법)
+  - 파일명
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/08-12/What%20I%20learned%20while%20studying.md#what-i-learned-while-studying">08/12</a>
+  - 함수의 선언과 정의
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/08-19/What%20I%20learned%20while%20studying.md#what-i-learned-while-studying">08/19</a>
+  - 매개변수
+  - 인수
+  - 컴파일
+  - 인터프리터
 
 ## 📝 Velog 글
 
