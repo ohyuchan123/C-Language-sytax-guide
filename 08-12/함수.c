@@ -10,6 +10,7 @@ int Multiply(int a, int b);
 float Divide(int a, int b);
 
 int InputNumber();
+int InputRangeNumber(int min,int max);
 
 int main(){
 
@@ -37,13 +38,19 @@ int main(){
 
     #pragma region 덧셈 함수 사용
 
-    printf("Add : %d\n",Add(10,20));
-    printf("subtract: %d\n", Subtract(10, 20));
-    printf("multiply: %d\n", Multiply(10, 20));
-    printf("divide: %.2f\n", Divide(10, 20));
+    // printf("Add : %d\n",Add(10,20));
+    // printf("subtract: %d\n", Subtract(10, 20));
+    // printf("multiply: %d\n", Multiply(10, 20));
+    // printf("divide: %.2f\n", Divide(10, 20));
 
-    int result = getInput();
-    printf("result : %d\n", result);
+    // int result = InputNumber();
+    // printf("result : %d\n", result);
+
+    int minValue = 10;
+    int maxValue = 100;
+
+    int result1 = InputRangeNumber(minValue,maxValue);
+    printf("result : %d",result1);
 
     #pragma endregion
     
@@ -81,4 +88,23 @@ int InputNumber(){
     printf("Enter an integer: ");
     scanf("%d", &num);
     return num;
+}
+
+// [최소 값] 이상 ~ [최대 값] 이하의 정수를 입력받고, 
+// 입력한 정수를 반환하는 함수 만들기
+
+//만약 입력받은 정수가 범위 밖에 있을 경우, 반복해서 다시 입력.
+int InputRangeNumber(int min,int max){
+    int input;
+
+    do{
+        printf("Enter an integer : ");
+        scanf("%d",&input);
+
+        if(input < min || input > max){
+            printf("Please try again.\n");
+        }
+    }while (input<min || input>max);
+    
+    return input;
 }
