@@ -70,6 +70,16 @@ C언어는 절자적 프로그래밍 언어로서 컴퓨터 프로그래밍에 �
   - 컴파일
   - 인터프리터
 
+## 🎈 Private Study
+
+이론에 관련된 내용이거나 따로 정리하면 좋을 것 같은 내용들을 정리하였습니다.
+
+**💻 code**
+
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/Private%20study/%EB%B3%84%EC%B0%8D%EA%B8%B0.c">별 찍기</a>
+
+**📝 memo**
+
 ## 📝 Velog 글
 
 위 문법들은 코드만 github에 push 하였기 때문에 조금 더 남들이 보기 좋게 글을  
