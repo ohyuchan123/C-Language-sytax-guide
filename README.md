@@ -19,6 +19,8 @@ C언어는 절자적 프로그래밍 언어로서 컴퓨터 프로그래밍에 �
 
 ## 📝 자료 정리
 
+여기 작성된 내용들은 대부분은 실습 위주로 작성되었습니다.
+
 ### 07/22
 
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-22/%EC%B6%9C%EB%A0%A5.c">출력</a>
@@ -48,6 +50,11 @@ C언어는 절자적 프로그래밍 언어로서 컴퓨터 프로그래밍에 �
 
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/08-19/void.c">void</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/08-19/%ED%8F%AC%EC%9D%B8%ED%84%B0.c">포인터</a>
+
+### 09/02
+
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/09-02/%EB%AC%B8%EC%9E%90%EC%97%B4.c">문자열</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/09-02/2%EC%B0%A8%EC%9B%90%EB%B0%B0%EC%97%B4.c">2차원 배열</a>
 
 ## 📒 새롭게 배웠거나 공부하면서 정리 내용
 
