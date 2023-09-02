@@ -76,6 +76,7 @@ C언어는 절자적 프로그래밍 언어로서 컴퓨터 프로그래밍에 �
   - 인수
   - 컴파일
   - 인터프리터
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/09-02/What%20I%20learned%20while%20studying.md#what-i-learned-while-studying">09/02</a>
 
 ## 🎈 Private Study
 
@@ -84,12 +85,24 @@ C언어는 절자적 프로그래밍 언어로서 컴퓨터 프로그래밍에 �
 **💻 code**
 
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/Private%20study/%EB%B3%84%EC%B0%8D%EA%B8%B0.c">별 찍기</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/memo/09-02/goto/goto.c">goto문 실습</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/memo/09-02/%ED%8F%AC%EC%9D%B8%ED%84%B0%EC%99%80%20%EB%A9%94%EB%AA%A8%EB%A6%AC/%EB%8F%99%EC%A0%81_%EB%B0%B0%EC%97%B4.c">동적 배열</a>
 
 **📝 memo**
 
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/memo/09-02/goto/goto.md#goto">goto</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/memo/09-02/%ED%8F%AC%EC%9D%B8%ED%84%B0%EC%99%80%20%EB%A9%94%EB%AA%A8%EB%A6%AC/%ED%8F%AC%EC%9D%B8%ED%84%B0%EC%99%80%20%EB%A9%94%EB%AA%A8%EB%A6%AC.md#-%ED%8F%AC%EC%9D%B8%ED%84%B0%EC%99%80-%EB%A9%94%EB%AA%A8%EB%A6%AC">포인터와 메모리</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/memo/09-02/%ED%8F%AC%EC%9D%B8%ED%84%B0%EC%99%80%20%EB%A9%94%EB%AA%A8%EB%A6%AC/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%ED%95%A8%EC%88%98%20%EA%B8%B0%EB%8A%A5.md#-%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%95%A8%EC%88%98">메모리 함수 기능</a>
+
+## 💻 Coding Test
+
+코드업과 프로그래머스를 통해 공부한 부분을 정리하였습니다.
+이를 통해 저의 알고리즘 실력을 키우고자 합니다.
+
+이곳에 정리된 부분은 기본적인 입출력 간단한 산술 연산에 관한 내용은 정리하지 않았습니다.
+
 ## 📝 Velog 글
 
-위 문법들은 코드만 github에 push 하였기 때문에 조금 더 남들이 보기 좋게 글을  
-Velog에 정리하였습니다
+위 작성된 링크들은 대부분 실습 위주로 작성되어 있기 때문에 따로 Velog에 작성하여 정리하였습니다.
 
 - <a href="https://velog.io/@ohyuchan123/series/C-Grammer">Velog</a>
