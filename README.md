@@ -56,6 +56,10 @@ C언어는 절자적 프로그래밍 언어로서 컴퓨터 프로그래밍에 �
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/09-02/%EB%AC%B8%EC%9E%90%EC%97%B4.c">문자열</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/09-02/2%EC%B0%A8%EC%9B%90%EB%B0%B0%EC%97%B4.c">2차원 배열</a>
 
+### 09/12
+
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/09-12/%ED%95%A8%EC%88%98_%ED%8F%AC%EC%9D%B8%ED%84%B0.c">함수 포인터</a>
+
 ## 📒 새롭게 배웠거나 공부하면서 정리 내용
 
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-22/What%20I%20learned%20while%20studying.md#include%EC%99%80-%ED%97%A4%EB%8D%94%ED%8C%8C%EC%9D%BC">07/22</a>
@@ -77,6 +81,7 @@ C언어는 절자적 프로그래밍 언어로서 컴퓨터 프로그래밍에 �
   - 컴파일
   - 인터프리터
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/09-02/What%20I%20learned%20while%20studying.md#what-i-learned-while-studying">09/02</a>
+  - 오류 해결 과정
 
 ## 🎈 Private Study
 
