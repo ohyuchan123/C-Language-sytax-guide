@@ -60,6 +60,11 @@ C언어는 절자적 프로그래밍 언어로서 컴퓨터 프로그래밍에 �
 
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/09-12/%ED%95%A8%EC%88%98_%ED%8F%AC%EC%9D%B8%ED%84%B0.c">함수 포인터</a>
 
+### 09/16
+
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/09-16/%EA%B5%AC%EC%A1%B0%EC%B2%B4.c">구조체></a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/09-16/%EB%8F%99%EC%A0%81_%ED%95%A0%EB%8B%B9.c">동적 할당</a>
+
 ## 📒 새롭게 배웠거나 공부하면서 정리 내용
 
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-22/What%20I%20learned%20while%20studying.md#include%EC%99%80-%ED%97%A4%EB%8D%94%ED%8C%8C%EC%9D%BC">07/22</a>
@@ -82,6 +87,7 @@ C언어는 절자적 프로그래밍 언어로서 컴퓨터 프로그래밍에 �
   - 인터프리터
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/09-02/What%20I%20learned%20while%20studying.md#what-i-learned-while-studying">09/02</a>
   - 오류 해결 과정
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/09-16/Review%20All%20Time.md#%EF%B8%8F-%EC%A0%84-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%8A%B5review-all-time">ReView All Time(함수 포인터)</a>
 
 ## 🎈 Private Study
 
