@@ -21,49 +21,56 @@ C언어는 절자적 프로그래밍 언어로서 컴퓨터 프로그래밍에 �
 
 여기 작성된 내용들은 대부분은 실습 위주로 작성되었습니다.
 
-### 07/22
+### 🗓️ 07/22
 
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-22/%EC%B6%9C%EB%A0%A5.c">출력</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-22/%EB%B3%80%EC%88%98.c">변수</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-22/%EC%9E%85%EC%B6%9C%EB%A0%A5.c">입출력</a>
 
-### 07/29
+### 🗓️ 07/29
 
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-29/%EC%97%B0%EC%82%B0%EC%9E%90.c">연산자</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/07-29/%EC%A0%9C%EC%96%B4%EB%AC%B8.c">제어문(if & else)</a>
 
-### 08/05
+### 🗓️ 08/05
 
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/08-05/%EC%A0%9C%EC%96%B4%EB%AC%B8.c">제어문</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/08-05/%EB%B0%98%EB%B3%B5%EB%AC%B8(while).c">반복문(while)</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/08-05/%EB%B0%98%EB%B3%B5%EB%AC%B8(for).c">반복문(for)</a>
 - <a href="">문제</a>
 
-### 08/12
+### 🗓️ 08/12
 
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/08-12/break_continue.c">반복문(break & continue)</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/08-12/do_while.c">반복문(do while)</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/08-12/%EB%B0%B0%EC%97%B4.c">배열</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/08-12/%ED%95%A8%EC%88%98.c">함수</a>
 
-### 08/19
+### 🗓️ 08/19
 
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/08-19/void.c">void</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/08-19/%ED%8F%AC%EC%9D%B8%ED%84%B0.c">포인터</a>
 
-### 09/02
+### 🗓️ 09/02
 
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/09-02/%EB%AC%B8%EC%9E%90%EC%97%B4.c">문자열</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/09-02/2%EC%B0%A8%EC%9B%90%EB%B0%B0%EC%97%B4.c">2차원 배열</a>
 
-### 09/12
+### 🗓️09/12
 
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/09-12/%ED%95%A8%EC%88%98_%ED%8F%AC%EC%9D%B8%ED%84%B0.c">함수 포인터</a>
 
-### 09/16
+### 🗓️ 09/16
 
-- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/09-16/%EA%B5%AC%EC%A1%B0%EC%B2%B4.c">구조체></a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/09-16/%EA%B5%AC%EC%A1%B0%EC%B2%B4.c">구조체</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/09-16/%EB%8F%99%EC%A0%81_%ED%95%A0%EB%8B%B9.c">동적 할당</a>
+
+### 🗓️ 09/23
+
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/09-23/%EC%A0%84%EC%97%AD_%EB%B3%80%EC%88%98.C">전역 변수</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/09-23/%EC%A0%84%EC%B2%98%EB%A6%AC_%EC%A7%80%EC%8B%9C%EC%9E%90.c">전처리 지시자</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/09-23/typedef%20%26%20enum.c">typedef & enum</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/tree/master/09-23/%EB%B6%84%ED%95%A0%20%EC%BB%B4%ED%8C%8C%EC%9D%BC">분할 컴파일</a>
 
 ## 📒 새롭게 배웠거나 공부하면서 정리 내용
 
@@ -88,6 +95,8 @@ C언어는 절자적 프로그래밍 언어로서 컴퓨터 프로그래밍에 �
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/09-02/What%20I%20learned%20while%20studying.md#what-i-learned-while-studying">09/02</a>
   - 오류 해결 과정
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/09-16/Review%20All%20Time.md#%EF%B8%8F-%EC%A0%84-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%8A%B5review-all-time">ReView All Time(함수 포인터)</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/09-23/Review%20All%20Time.md#%EF%B8%8F-review-all-time">Review All Time
+  (배열 동적 할당 & 구조체)</a>
 
 ## 🎈 Private Study
 
@@ -101,9 +110,16 @@ C언어는 절자적 프로그래밍 언어로서 컴퓨터 프로그래밍에 �
 
 **📝 memo**
 
+<span style="color:blue">9/2</span>
+
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/memo/09-02/goto/goto.md#goto">goto</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/memo/09-02/%ED%8F%AC%EC%9D%B8%ED%84%B0%EC%99%80%20%EB%A9%94%EB%AA%A8%EB%A6%AC/%ED%8F%AC%EC%9D%B8%ED%84%B0%EC%99%80%20%EB%A9%94%EB%AA%A8%EB%A6%AC.md#-%ED%8F%AC%EC%9D%B8%ED%84%B0%EC%99%80-%EB%A9%94%EB%AA%A8%EB%A6%AC">포인터와 메모리</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/memo/09-02/%ED%8F%AC%EC%9D%B8%ED%84%B0%EC%99%80%20%EB%A9%94%EB%AA%A8%EB%A6%AC/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%ED%95%A8%EC%88%98%20%EA%B8%B0%EB%8A%A5.md#-%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%95%A8%EC%88%98">메모리 함수 기능</a>
+
+<span style="color:blue">9/11</span>
+
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/memo/09-11/%EB%B0%B0%EC%97%B4/1%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4.md#-1%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4">1차원 배열</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/memo/09-11/%EB%B0%B0%EC%97%B4/%EB%8B%A4%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4.md#-%EB%8B%A4%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4">다차원 배열</a>
 
 ## 💻 Coding Test
 
