@@ -121,12 +121,29 @@ C언어는 절자적 프로그래밍 언어로서 컴퓨터 프로그래밍에 �
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/memo/09-11/%EB%B0%B0%EC%97%B4/1%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4.md#-1%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4">1차원 배열</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/memo/09-11/%EB%B0%B0%EC%97%B4/%EB%8B%A4%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4.md#-%EB%8B%A4%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4">다차원 배열</a>
 
+<span style="color:blue">9/23</span>
+
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/memo/09-23/%ED%95%A8%EC%88%98%20%ED%8F%AC%EC%9D%B8%ED%84%B0.md">함수 포인터</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/memo/09-23/%EA%B5%AC%EC%A1%B0%EC%B2%B4.md">구조체</a>
+
+<span style="color:blue">9/24</span>
+
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/memo/09-24/%EC%A0%84%EC%B2%98%EB%A6%AC%20%EC%A7%80%EC%8B%9C%EC%9E%90.md#-%EC%A0%84%EC%B2%98%EB%A6%AC-%EC%A7%80%EC%8B%9C%EC%9E%90">전처리 지시자</a>
+
+<span style="color:blue">9/25</span>
+
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/memo/09-25/%EC%A0%84%EC%97%AD%20%EB%B3%80%EC%88%98%20%26%20%EC%A7%80%EC%97%AD%20%EB%B3%80%EC%88%98.md#-%EC%A0%84%EC%97%AD-%EB%B3%80%EC%88%98--%EC%A7%80%EC%97%AD-%EB%B3%80%EC%88%98">전역 변수 & 지역 변수</a>
+
 ## 💻 Coding Test
 
 코드업과 프로그래머스를 통해 공부한 부분을 정리하였습니다.
 이를 통해 저의 알고리즘 실력을 키우고자 합니다.
 
 이곳에 정리된 부분은 기본적인 입출력 간단한 산술 연산에 관한 내용은 정리하지 않았습니다.
+
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/tree/master/Coding%20Test/0%20%EC%9E%85%EB%A0%A5%EB%90%A0%20%EB%95%8C%EA%B9%8C%EC%A7%80%20%EB%AC%B4%ED%95%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0">0 입력될 때까지 무한 출력하기</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/tree/master/Coding%20Test/%EC%A0%95%EC%88%98%20%EC%9E%85%EB%A0%A5%EB%B0%9B%EC%95%84%20%EA%B3%84%EC%86%8D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0">정수 입력받아 계속 출력하기</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/tree/master/Coding%20Test/%EC%9B%90%ED%95%98%EB%8A%94%20%EB%AC%B8%EC%9E%90%EA%B0%80%20%EC%9E%85%EB%A0%A5%EB%90%A0%20%EB%95%8C%EA%B9%8C%EC%A7%80%20%EB%B0%98%EB%B3%B5%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0">원하는 문자가 입력될 때까지 반복 출력하기</a>
 
 ## 📝 Velog 글
 
