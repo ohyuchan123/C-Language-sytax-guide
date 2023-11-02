@@ -134,6 +134,15 @@ C언어는 절자적 프로그래밍 언어로서 컴퓨터 프로그래밍에 �
 
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/memo/09-25/%EC%A0%84%EC%97%AD%20%EB%B3%80%EC%88%98%20%26%20%EC%A7%80%EC%97%AD%20%EB%B3%80%EC%88%98.md#-%EC%A0%84%EC%97%AD-%EB%B3%80%EC%88%98--%EC%A7%80%EC%97%AD-%EB%B3%80%EC%88%98">전역 변수 & 지역 변수</a>
 
+<span style="color:blue">9/27</span>
+
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/memo/09-27/%ED%8F%AC%EC%9D%B8%ED%84%B0%EC%99%80%20%EA%B5%AC%EC%A1%B0%EC%B2%B4.md#-%ED%8F%AC%EC%9D%B8%ED%84%B0%EC%99%80-%EA%B5%AC%EC%A1%B0%EC%B2%B4">포인터와 구조체</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/memo/09-27/%EA%B3%B5%EC%9A%A9%EC%B2%B4%EC%99%80%20%EC%97%B4%EA%B1%B0%EC%B2%B4.md#-%EA%B3%B5%EC%9A%A9%EC%B2%B4%EC%99%80-%EC%97%B4%EA%B1%B0%EC%B2%B4">공용체와 열거체</a>
+
+<span style="color:blue">11/1</span>
+
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/memo/11-01/%EC%83%81%EC%88%98.md#-%EC%83%81%EC%88%98%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80">상수(const)</a>
+
 ## 💻 Coding Test
 
 코드업과 프로그래머스를 통해 공부한 부분을 정리하였습니다.
@@ -144,6 +153,9 @@ C언어는 절자적 프로그래밍 언어로서 컴퓨터 프로그래밍에 �
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/tree/master/Coding%20Test/0%20%EC%9E%85%EB%A0%A5%EB%90%A0%20%EB%95%8C%EA%B9%8C%EC%A7%80%20%EB%AC%B4%ED%95%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0">0 입력될 때까지 무한 출력하기</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/tree/master/Coding%20Test/%EC%A0%95%EC%88%98%20%EC%9E%85%EB%A0%A5%EB%B0%9B%EC%95%84%20%EA%B3%84%EC%86%8D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0">정수 입력받아 계속 출력하기</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/tree/master/Coding%20Test/%EC%9B%90%ED%95%98%EB%8A%94%20%EB%AC%B8%EC%9E%90%EA%B0%80%20%EC%9E%85%EB%A0%A5%EB%90%A0%20%EB%95%8C%EA%B9%8C%EC%A7%80%20%EB%B0%98%EB%B3%B5%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0">원하는 문자가 입력될 때까지 반복 출력하기</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/Coding%20Test/%EC%96%B8%EC%A0%9C%EA%B9%8C%EC%A7%80%20%EB%8D%94%ED%95%B4%EC%95%BC%20%ED%95%A0%EA%B9%8C%3F/%EC%96%B8%EC%A0%9C%EA%B9%8C%EC%A7%80%20%EB%8D%94%ED%95%B4%EC%95%BC%20%ED%95%A0%EA%B9%8C%3F.c">언제까지 더해야 할까?</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/Coding%20Test/%EC%A3%BC%EC%82%AC%EC%9C%84%EB%A5%BC%202%EA%B0%9C%20%EB%8D%98%EC%A7%80%EB%A9%B4%3F/%EC%A3%BC%EC%82%AC%EC%9C%84%EB%A5%BC%202%EA%B0%9C%20%EB%8D%98%EC%A7%80%EB%A9%B4%3F.c">주사위를 2개 던지면?</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/Coding%20Test/16%EC%A7%84%EC%88%98%20%EA%B5%AC%EA%B5%AC%EB%8B%A8%3F/16%EC%A7%84%EC%88%98%20%EA%B5%AC%EA%B5%AC%EB%8B%A8%3F.c">16진수 구구단</a>
 
 ## 📝 Velog 글
 
