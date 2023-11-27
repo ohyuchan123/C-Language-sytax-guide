@@ -156,9 +156,14 @@ C언어는 절자적 프로그래밍 언어로서 컴퓨터 프로그래밍에 �
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/Coding%20Test/%EC%96%B8%EC%A0%9C%EA%B9%8C%EC%A7%80%20%EB%8D%94%ED%95%B4%EC%95%BC%20%ED%95%A0%EA%B9%8C%3F/%EC%96%B8%EC%A0%9C%EA%B9%8C%EC%A7%80%20%EB%8D%94%ED%95%B4%EC%95%BC%20%ED%95%A0%EA%B9%8C%3F.c">언제까지 더해야 할까?</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/Coding%20Test/%EC%A3%BC%EC%82%AC%EC%9C%84%EB%A5%BC%202%EA%B0%9C%20%EB%8D%98%EC%A7%80%EB%A9%B4%3F/%EC%A3%BC%EC%82%AC%EC%9C%84%EB%A5%BC%202%EA%B0%9C%20%EB%8D%98%EC%A7%80%EB%A9%B4%3F.c">주사위를 2개 던지면?</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/Coding%20Test/16%EC%A7%84%EC%88%98%20%EA%B5%AC%EA%B5%AC%EB%8B%A8%3F/16%EC%A7%84%EC%88%98%20%EA%B5%AC%EA%B5%AC%EB%8B%A8%3F.c">16진수 구구단</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/Coding%20Test/%EB%B9%9B%20%EC%84%9E%EC%96%B4%20%EC%83%89%20%EB%A7%8C%EB%93%A4%EA%B8%B0/%EB%B9%9B%20%EC%84%9E%EC%96%B4%20%EC%83%89%20%EB%A7%8C%EB%93%A4%EA%B8%B0.c">빛 섞어 색 만들기</a>
 
 ## 📝 Velog 글
 
 위 작성된 링크들은 대부분 실습 위주로 작성되어 있기 때문에 따로 Velog에 작성하여 정리하였습니다.
 
 - <a href="https://velog.io/@ohyuchan123/series/C-Grammer">Velog</a>
+
+## 📁 C Project
+
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/tree/master/C_Socket_Project#-c%EC%96%B8%EC%96%B4-%EC%86%8C%EC%BC%93-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">C Socket Project</a>
