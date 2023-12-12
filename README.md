@@ -157,6 +157,8 @@ C언어는 절자적 프로그래밍 언어로서 컴퓨터 프로그래밍에 �
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/Coding%20Test/%EC%A3%BC%EC%82%AC%EC%9C%84%EB%A5%BC%202%EA%B0%9C%20%EB%8D%98%EC%A7%80%EB%A9%B4%3F/%EC%A3%BC%EC%82%AC%EC%9C%84%EB%A5%BC%202%EA%B0%9C%20%EB%8D%98%EC%A7%80%EB%A9%B4%3F.c">주사위를 2개 던지면?</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/Coding%20Test/16%EC%A7%84%EC%88%98%20%EA%B5%AC%EA%B5%AC%EB%8B%A8%3F/16%EC%A7%84%EC%88%98%20%EA%B5%AC%EA%B5%AC%EB%8B%A8%3F.c">16진수 구구단</a>
 - <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/blob/master/Coding%20Test/%EB%B9%9B%20%EC%84%9E%EC%96%B4%20%EC%83%89%20%EB%A7%8C%EB%93%A4%EA%B8%B0/%EB%B9%9B%20%EC%84%9E%EC%96%B4%20%EC%83%89%20%EB%A7%8C%EB%93%A4%EA%B8%B0.c">빛 섞어 색 만들기</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/tree/master/Coding%20Test/%EC%86%8C%EB%A6%AC%20%ED%8C%8C%EC%9D%BC%20%EC%A0%80%EC%9E%A5%EC%9A%A9%EB%9F%89%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0">소리 파일 저장용량 계산하기</a>
+- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/tree/master/Coding%20Test/3%EC%9D%98%20%EB%B0%B0%EC%88%98%EB%8A%94%20%ED%86%B5%EA%B3%BC">3의 배수는 통과</a>
 
 ## 📝 Velog 글
 
