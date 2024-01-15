@@ -164,8 +164,6 @@ C언어는 절자적 프로그래밍 언어로서 컴퓨터 프로그래밍에 �
 
 위 작성된 링크들은 대부분 실습 위주로 작성되어 있기 때문에 따로 Velog에 작성하여 정리하였습니다.
 
-- <a href="https://velog.io/@ohyuchan123/series/C-Grammer">Velog</a>
+- <a href="https://velog.io/@ohyuchan123/series/C-Language">Velog</a>
 
 ## 📁 C Project
-
-- <a href="https://github.com/ohyuchan123/C-Language-sytax-guide/tree/master/C_Socket_Project#-c%EC%96%B8%EC%96%B4-%EC%86%8C%EC%BC%93-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">C Socket Project</a>
